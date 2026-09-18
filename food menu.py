@@ -2,7 +2,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
-TOKEN = "8800720888:AAEM2BQ_c_ib2qr1wqJry0kE4W5kBweHGoA"
+TOKEN = "ToKen_HERE"
 ADMIN_ID = 123456789
 
 foods = {
